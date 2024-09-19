@@ -158,7 +158,7 @@ footer h4 {
 
 @media (max-width: 443px) {
   main {
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
   }
   .work-showcase {
     padding: 1rem 3.5rem;
