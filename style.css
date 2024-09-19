@@ -160,6 +160,9 @@ footer h4 {
   main {
     padding: 1rem 1rem;
   }
+  .title-container h1 {
+    font-size: 1.6rem;
+  }
   .work-showcase {
     padding: 1rem 3.5rem;
   }
